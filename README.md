@@ -1,7 +1,7 @@
 # P-Infini_VoiP
 Module ETML projet 143
 
-Situation Initial
+Situation Initial :
 Mise en place et configuration d’une infrastructure réseau pour une entreprise. Gestion des données, de la voix, du Wifi, du DMZ et d’un VPN.
 
 Objectif : 
