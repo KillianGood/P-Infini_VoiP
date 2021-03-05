@@ -1,0 +1,19 @@
+// copy running-config startup-config
+
+Switch>enable
+
+Switch# configure terminal
+
+Switch(config)# 'Copier coller le contenu de "backup.txt"'.
+
+
+
+#interface gigabitethernet 0/1
+
+#switchport trunk
+
+#switchport access vlan 2
+
+	
+
+creer meme vlan sur routeur (trunk)
