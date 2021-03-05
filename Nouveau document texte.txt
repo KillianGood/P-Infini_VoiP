@@ -1,0 +1,3 @@
+copy running-config startup-config
+
+sh run
