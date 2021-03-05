@@ -1,0 +1,5 @@
+enable
+write erase no vlan 
+reload
+configure terminal
+hostname RT2
