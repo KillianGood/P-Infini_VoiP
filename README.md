@@ -12,4 +12,4 @@ Ce Projet vise à consolider les connaissances de mise en œuvre des technologie
 Caractéristique Infrastructure :
 Le groupe doit mettre en place une infrastructure VOIP fonctionnelle. Tous les VLANS (succursales) seront connectées à un routeur de distribution et un call Manager. 
 
-![hippo](https://gph.is/g/4Lxzgx0)
+![hippo](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif)
