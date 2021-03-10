@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 # P-Infini_VoiP
 Module ETML projet 143
 
